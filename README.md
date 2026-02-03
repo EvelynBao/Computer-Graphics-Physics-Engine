@@ -10,12 +10,12 @@ This repository features a suite of high-performance C++ modules focusing on low
 | Inverse Kinematics (IK) | MoCap Interpolation | Soft Body Physics |
 | :---: | :---: | :---: |
 | ![IK Demo](./Demo/520-3.gif) | ![MoCap Demo](./Demo/520-2-bq.gif) | ![Jello Demo](./Demo/520-1.gif) |
-| *Jacobian Solver & Regularization* | *Quaternion SLERP & Animation* | *Mass-Spring System (RK4)* |
+| *Jacobian Solver & Regularization* | *Quaternion SLERP & Animation*(Note: High-fidelity GIF, may load slowly) | *Mass-Spring System (RK4)* |
 
 ### Rendering & Geometry (420 Series)
 | Roller Coaster Simulation | Recursive Raytracing |
 | :---: | :---: |
-| [![Coaster](./Demo/420-2.mp4)](./Demo/420-2.mp4) | ![Raytrace Result](./Rendering-Geometry/420-3-Raytrace/toy.jpg) |
+| [![Coaster](<video src="./Demo/420-2.mp4" controls autoplay loop muted style="max-width: 100%;"></video>)](./Demo/420-2.mp4) | ![Raytrace Result](./Rendering-Geometry/420-3-Raytrace/toy.jpg) |
 | *Catmull-Rom Splines (Click for MP4)* | *Phong Reflection & Hard Shadows* |
 ---
 

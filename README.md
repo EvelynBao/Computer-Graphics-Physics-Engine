@@ -5,7 +5,7 @@ This repository features a suite of high-performance C++ modules focusing on low
 
 ---
 
-## 🎥 Project Demos
+## Project Demos
 ### Animation & Physics (520 Series)
 | Inverse Kinematics (IK) | MoCap Interpolation | Soft Body Physics |
 | :---: | :---: | :---: |
@@ -15,11 +15,11 @@ This repository features a suite of high-performance C++ modules focusing on low
 ### Rendering & Geometry (420 Series)
 | Roller Coaster Simulation | Recursive Raytracing |
 | :---: | :---: |
-| <video src="./Demo/420-2.mp4" width="100%" muted autoplay loop></video> | ![Raytrace Result](./Rendering-Geometry/420-3-Raytrace/toy.jpg) |
+| <video src="./Demo/420-2.mp4" width="100%" muted autoplay loop></video> | ![Raytrace Result](./Rendering-Geometry/420-3-Raytrace/spheres.jpg) |
 | *Catmull-Rom Splines (Click [here](./Demo/420-2.mp4) for MP4)* | *Phong Reflection & Hard Shadows* |
 ---
 
-## 🛠️ Core Technical Highlights
+## Core Technical Highlights
 
 ### 1. Animation & Simulation (CSCI 520)
 * **Jacobian IK Solver**: Implemented a robust IK engine using **Jacobian matrices** and **ADOL-C** for automatic differentiation. Used **Tikhonov Regularization** to maintain stability near singularities.
@@ -35,7 +35,7 @@ This repository features a suite of high-performance C++ modules focusing on low
 
 ---
 
-## 📐 Mathematical Foundations
+## Mathematical Foundations
 
 * **Numerical Integration (RK4)** for stability:
 $$\mathbf{y}_{n+1} = \mathbf{y}_n + \frac{h}{6}(k_1 + 2k_2 + 2k_3 + k_4)$$
@@ -45,8 +45,8 @@ $$\Delta \theta = J^T (JJ^T + \lambda^2 I)^{-1} \vec{e}$$
 
 ---
 
-## 💻 Tech Stack
-* **Languages**: C++ (11/14), GLSL
+## Tech Stack
+* **Languages**: C++, GLSL
 * **Libraries**: Eigen, ADOL-C, OpenGL, GLUT
 * **Build System**: Custom Makefiles
 

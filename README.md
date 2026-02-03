@@ -6,22 +6,17 @@ This repository features a suite of high-performance C++ modules focusing on low
 ---
 
 ## 🎥 Project Demos
+### Animation & Physics (520 Series)
+| Inverse Kinematics (IK) | MoCap Interpolation | Soft Body Physics |
+| :---: | :---: | :---: |
+| ![IK Demo](./Demo/520-3.gif) | ![MoCap Demo](./Demo/520-2-bq.gif) | ![Jello Demo](./Demo/520-1.gif) |
+| *Jacobian Solver & Regularization* | *Quaternion SLERP & Animation* | *Mass-Spring System (RK4)* |
 
-| Inverse Kinematics (IK) | MoCap Interpolation |
+### Rendering & Geometry (420 Series)
+| Roller Coaster Simulation | Recursive Raytracing |
 | :---: | :---: |
-| ![IK Demo](./Demo/520-3.gif) | [![MoCap Demo](./Demo/mocap_thumb.jpg)](./Demo/520-2.mp4) |
-| *Jacobian Solver with Tikhonov Regularization* | *Quaternion SLERP (Click for MP4)* |
-
-| Soft Body Physics | Roller Coaster Simulation |
-| :---: | :---: |
-| ![Jello Demo](./Demo/520-1.gif) | [![Coaster Demo](./Demo/coaster_thumb.jpg)](./Demo/420-2.mp4) |
-| *Mass-Spring System with RK4 Integrator* | *Catmull-Rom Splines (Click for MP4)* |
-
-| Recursive Raytracing | Shader-based Terrain |
-| :---: | :---: |
-| ![Raytrace](./Rendering-Geometry/420-3-Raytrace/spheres.jpg) | ![Heightmap](./Demo/420-1.gif) |
-| *Phong Reflection & Hard Shadows* | *GLSL Heightmap Rendering (VBO/VAO)* |
-
+| [![Coaster](./Demo/420-2.mp4)](./Demo/420-2.mp4) | ![Raytrace Result](./Rendering-Geometry/420-3-Raytrace/toy.jpg) |
+| *Catmull-Rom Splines (Click for MP4)* | *Phong Reflection & Hard Shadows* |
 ---
 
 ## 🛠️ Core Technical Highlights

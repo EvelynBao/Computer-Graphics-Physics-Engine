@@ -1,5 +1,5 @@
 # Advanced 3D Graphics & Physics Engine Portfolio
-**Ruyi (Evelyn) Bao | M.S. in Computer Science @ USC**
+**Ruyi Bao**
 
 This repository features a suite of high-performance C++ modules focusing on low-level computer graphics, numerical physics, and skeletal animation. All solvers and rendering pipelines were implemented from scratch.
 
@@ -52,5 +52,5 @@ $$\Delta \theta = J^T (JJ^T + \lambda^2 I)^{-1} \vec{e}$$
 
 ---
 
-## 📜 Academic Context
+## Academic Context
 Developed during the **CSCI 420 (Computer Graphics)** and **CSCI 520 (Computer Animation)** courses at the **University of Southern California**.

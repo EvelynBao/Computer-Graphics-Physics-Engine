@@ -16,7 +16,7 @@ This repository features a suite of high-performance C++ modules focusing on low
 | Roller Coaster Simulation | Recursive Raytracing |
 | :---: | :---: |
 | <video src="./Demo/420-2.mp4" width="100%" muted autoplay loop></video> | ![Raytrace Result](./Rendering-Geometry/420-3-Raytrace/toy.jpg) |
-| *Catmull-Rom Splines (Click for MP4)* | *Phong Reflection & Hard Shadows* |
+| *Catmull-Rom Splines (Click [here](./Demo/420-2.mp4) for MP4)* | *Phong Reflection & Hard Shadows* |
 ---
 
 ## 🛠️ Core Technical Highlights

@@ -1,0 +1,8 @@
+.vs/
+Bin/
+*.obj
+*.exe
+*.sln
+*.vcxproj*
+*.ppm
+heightmap/

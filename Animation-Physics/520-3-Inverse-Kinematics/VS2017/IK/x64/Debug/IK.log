@@ -1,0 +1,63 @@
+﻿  driver.cpp
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(214,90): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(507,60): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(613,39): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(628,45): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(643,39): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(649,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(649,9): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(658,45): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(664,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\objMesh.h(664,9): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\openGLHelper.h(119,63): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\openGLHelper.h(119,57): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\openGLHelper.h(119,51): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\openGLHelper.h(123,69): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\openGLHelper.h(123,63): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\vega\openGLHelper.h(123,57): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\adolc\Win64\include\adolc\advector.h(130,132): warning C4267: 'argument': conversion from 'size_t' to 'locint', possible loss of data
+  (compiling source file '../driver.cpp')
+  
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(106,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(279,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(279,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(279,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(475,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(475,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(502,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(527,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(563,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\driver.cpp(611,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  IK.vcxproj -> C:\Users\bry15\AAA\study\USC\520\hw\hw3\cs520-hw3-ik\starter\VS2017\x64\Debug\IK.exe

@@ -1,0 +1,12 @@
+﻿  hw3.cpp
+C:\Users\bry15\AAA\study\USC\420\hw3\v16\hw3-starterCode\hw3.cpp(31,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\bry15\AAA\study\USC\420\hw3\v16\hw3-starterCode\hw3.cpp(758,29): warning C4244: “初始化”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\bry15\AAA\study\USC\420\hw3\v16\hw3-starterCode\hw3.cpp(759,29): warning C4244: “初始化”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\bry15\AAA\study\USC\420\hw3\v16\hw3-starterCode\hw3.cpp(760,29): warning C4244: “初始化”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\bry15\AAA\study\USC\420\hw3\v16\hw3-starterCode\hw3.cpp(559,1): warning C4715: “intersectTriangle”: 不是所有的控件路径都返回值
+  jpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: ??"/INCREMENTAL"(??"/LTCG"??)
+LINK : warning LNK4098: ???"MSVCRT"?????????;??? /NODEFAULTLIB:library
+  ??????
+  ????????
+  hw3.vcxproj -> C:\Users\bry15\AAA\study\USC\420\hw3\v16\hw3-starterCode\Bin\Debug\hw3.exe
